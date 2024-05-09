@@ -1,7 +1,7 @@
 # Taipei-City-Department-of-Transportation-Data
 About Dataset
 =
-Our data source is the Taipei City Department of Transportation.
+Our dataset was from the Taipei City Department of Transportation.
 
 Traffic accident data in 2020: 213,872 records, 105 fields.
 
